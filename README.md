@@ -1,9 +1,3 @@
-# PRODIGY_WD_01
-
-- Web Development Task 1 was to create a responsive landing page.
-- To create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
-- The navigation menu should have a fixed position and be visible on all pages.
-  
 # KFC Landing Page
 
 This project is a basic landing page for KFC created using HTML, CSS, and JavaScript.
